@@ -1,1 +1,2 @@
 # Hotel-Cancellation-Prediction-Python-Project
+This project builds a machine learning model to predict whether a hotel booking will be canceled. The dataset is explored and preprocessed, followed by feature engineering and model training to identify important factors affecting cancellations such as lead time, booking type, number of guests, and previous cancellations. The project includes data cleaning, EDA, model building, and evaluation.
